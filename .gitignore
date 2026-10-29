@@ -1,0 +1,11 @@
+build/
+build-*/
+.qt/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+.DS_Store
+scripts/local.env
+.tools/
+*.log
+*.zip
